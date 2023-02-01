@@ -22,3 +22,6 @@ The best case travel time is: 3.1034482 hours at 5.8 knots
 The average case travel time is: 4.5 hours at 4.0 knots
 
 Credit: Thanks to Bob Dugan from Stonehill College
+
+Name: Eden
+Partner: Phoebe
